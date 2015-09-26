@@ -4,7 +4,7 @@ Maltego Library coded in Java for developing Maltego Local transforms in Java.
 
 ## How to use
 
-Compile code and import to you project.
+Compile code and import to your project.
 
 ## Code 
 
