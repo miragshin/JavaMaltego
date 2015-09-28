@@ -59,3 +59,5 @@ In the Maltego add the path to shell script, while adding Maltego transform.
 
 	addEntity(String Type, String Value); - adds entity
 	returnOutput(); - generates and returns XML 
+	
+** Other methods will be added as well. ** 
