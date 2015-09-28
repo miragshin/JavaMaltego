@@ -10,21 +10,21 @@ Compile code and import to your project.
 
 **1. Create a object of MaltegoTransform**
 
-	MaltegoTransform transform = new MaltegoTransform();
+	MaltegoTransform me = new MaltegoTransform();
 
 **2. Adding Entity**
 
-	transform.addEntity(Type, Value); 
+	me.addEntity(Type, Value); 
 
 **3. Adding property** 
 
 For adding property you have get entity from the list by referencing index of it. (Remember first element in array is 0, (I know you know this) :) )
 
-	transform.listEntities.get(i).addProperty(fieldName,displayName,matchingRule,value);
+	me.listEntities.get(i).addProperty(fieldName,displayName,matchingRule,value);
 
 **4. Returning output.**
 
-	transform.returOutput();
+	me.returOutput();
 
 Library will generate and return XML. 
 
