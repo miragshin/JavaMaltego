@@ -1,4 +1,4 @@
-#JavaMaltego
+## JavaMaltego
 
 Maltego Library coded in Java for developing Maltego Local transforms in Java.
 
